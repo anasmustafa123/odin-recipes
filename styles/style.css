@@ -1,6 +1,14 @@
+div{
+    font-family: "Lucida Console", "Courier New", monospace;;
+    }
+    img{
+width: 800px;
+    height: auto;
+}
+
 .title{
-    color: rgb(100, 160, 250 );
-    background-color: rgb(79, 85, 83);
+    color: rgb(255, 50, 51);
+    background-color: #d4ce26;
 }
 #meal1{
     color: brown;
@@ -9,3 +17,9 @@
     color: rgb(0, 255, 255);
 }
 
+.head2{
+    color: blue;
+}
+.head3{
+    color: purple;
+}
