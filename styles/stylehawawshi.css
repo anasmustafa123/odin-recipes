@@ -27,3 +27,14 @@
 span{
     background :  rgba(255 ,255,255,1);
 }
+img{
+    width: 500px;
+    height: auto;
+}
+#img2 {
+    margin: 2px 200px;
+}
+
+#img1 {
+    margin: 5px 400px;
+}
