@@ -1,7 +1,9 @@
-div{
-    font-family: "Lucida Console", "Courier New", monospace;;
-    }
-    img{
+
+*{
+    font-family: "Lucida Console", "Courier New", monospace;; 
+}
+    
+img{
 width: 800px;
     height: auto;
 }
