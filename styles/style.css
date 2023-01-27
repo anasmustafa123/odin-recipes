@@ -14,11 +14,8 @@
     color: rgb(0, 81, 255);
 }
 
-.head2{
-    color: blue;
-}
 .head3{
-    color: purple;
+    color: #f44336;
 }
 #list{
     width: 200px;
@@ -29,8 +26,10 @@
     background: #bd3c3c42;
 }
 .item{
-    padding: 3px;
-    border: 0.2px solid black;
+    border: 0.3px solid black;
+    width: auto;
+    text-align: center;
+    padding: 7px;
     margin: 10px;
-    background: #edff0047;
+    background: #ffffff80;
 }
